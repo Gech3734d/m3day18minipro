@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720" role="img" aria-labelledby="title desc">
+  <title id="title">Ethiopian shared platter</title><desc id="desc">A colorful illustrated Ethiopian meal with injera, lentils, greens, and vegetables on a round platter.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7e7c7"/><stop offset="1" stop-color="#e9d0a4"/></linearGradient>
+    <radialGradient id="plate"><stop stop-color="#fff9e9"/><stop offset="1" stop-color="#dfd0b2"/></radialGradient>
+    <radialGradient id="injera"><stop stop-color="#b87943"/><stop offset=".65" stop-color="#d9a16a"/><stop offset="1" stop-color="#8b4e2b"/></radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#573b20" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="960" height="720" rx="44" fill="url(#bg)"/>
+  <circle cx="480" cy="360" r="286" fill="#d6b782" opacity=".42"/>
+  <g filter="url(#shadow)"><circle cx="480" cy="355" r="255" fill="url(#plate)"/><circle cx="480" cy="355" r="226" fill="#8d4e2d"/><circle cx="480" cy="355" r="215" fill="url(#injera)"/></g>
+  <g fill="none" stroke="#8c4d2a" stroke-width="4" opacity=".45">
+    <path d="M300 270q30 -34 60 0t60 0t60 0t60 0t60 0t60 0"/><path d="M285 305q30 -34 60 0t60 0t60 0t60 0t60 0t60 0t30 0"/><path d="M300 415q30 -34 60 0t60 0t60 0t60 0t60 0t60 0"/><path d="M330 455q30 -34 60 0t60 0t60 0t60 0t60 0"/>
+  </g>
+  <g>
+    <path d="M330 290q-65 -62 -80 7t82 82q-55 -42 -2 -89" fill="#477346"/><path d="M325 315q-35 -38 -57 -16m73 42q-28 -30 -53 -24" stroke="#a9c875" stroke-width="5" fill="none"/>
+    <path d="M590 280q70 -62 89 7t-85 87q59 -46 -4 -94" fill="#386943"/><path d="M607 310q36 -38 59 -16m-74 42q28 -30 54 -24" stroke="#a9c875" stroke-width="5" fill="none"/>
+    <path d="M350 420q-60 -44 -67 12t72 47q-40 -29 -5 -59" fill="#547b37"/><path d="M580 432q64 -45 75 11t-78 45q42 -27 3 -56" fill="#547b37"/>
+    <path d="M386 268q45 -36 84 5t-15 65q-58 12 -69 -27t0 -43" fill="#bd442a"/><path d="M505 269q45 -36 84 5t-15 65q-58 12 -69 -27t0 -43" fill="#c95c32"/>
+    <path d="M386 375q48 -42 92 -3t-7 74q-59 18 -82 -18t-3 -53" fill="#6b3324"/><path d="M505 375q48 -42 92 -3t-7 74q-59 18 -82 -18t-3 -53" fill="#773a25"/>
+    <g fill="#e7bd4d"><circle cx="437" cy="326" r="25"/><circle cx="527" cy="326" r="23"/><circle cx="456" cy="407" r="22"/><circle cx="541" cy="409" r="21"/></g>
+    <g fill="#c98a28"><circle cx="430" cy="320" r="4"/><circle cx="446" cy="333" r="4"/><circle cx="520" cy="321" r="4"/><circle cx="535" cy="332" r="4"/><circle cx="450" cy="402" r="4"/><circle cx="463" cy="415" r="4"/><circle cx="536" cy="402" r="4"/><circle cx="549" cy="414" r="4"/></g>
+    <path d="M410 468q50 -35 102 -5t-9 49q-62 11 -93 -15t0 -29" fill="#5c7b38"/><path d="M428 467l48 25m-19 -32l34 20m-58 -5l42 20" stroke="#a9c875" stroke-width="5" fill="none"/>
+  </g>
+  <g fill="#fff8e9" opacity=".95"><circle cx="158" cy="151" r="7"/><circle cx="800" cy="172" r="10"/><circle cx="766" cy="554" r="6"/><circle cx="202" cy="554" r="9"/></g>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#6a4828"><text x="56" y="624" font-size="21" font-weight="700" letter-spacing="4">MADE TO SHARE</text><text x="56" y="658" font-size="14" letter-spacing="2">A TASTE OF ETHIOPIA</text></g>
+</svg>
